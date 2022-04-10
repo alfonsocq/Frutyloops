@@ -9,7 +9,7 @@
         <link rel="stylesheet" href="/webjars/bootstrap/css/bootstrap.min.css" />
     </head>
 <body>
-   
+   <h1>Fruit Store</h1>
 <table class="table">
   <thead class="thead-dark">
     <tr>
